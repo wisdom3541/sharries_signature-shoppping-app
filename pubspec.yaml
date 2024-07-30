@@ -1,0 +1,68 @@
+name: sharries_signature
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/shopping_cart.png
+    - images/product1.png
+    - images/home.png
+    - images/profile.png
+    - images/wishlist.png
+    - images/search.png
+    - images/shoppingCart.png
+    - images/backButton.png
+    - images/back.png
+    - images/back2.png
+    - images/back3.jpg
+    - images/background.png
+    - images/backgroundSplash.png
+    - images/scrubImage.png
+    - images/productImage2.png
+    - images/productImage3.png
+    - images/shoppingcartLogo.png
+    - images/cartitemImage.png
+    - images/bodycare.png
+    - images/cleanse.png
+    - images/moisturize.png
+    - images/treat.png
+
+  fonts:
+    - family: RedressedFont
+      fonts:
+        - asset: fonts/Redressed-Regular.ttf
+          weight: 400
+    - family: PopppinsFont
+      fonts:
+        - asset: fonts/Poppins-Regular.ttf
+          
+    - family: LoraFont
+      fonts:
+        - asset: fonts/Lora-Bold.ttf
+          weight: 600
+    - family: InterFont
+      fonts:
+        - asset: fonts/Inter-Regular.ttf
+          weight: 600
+
+
+
+
+          
