@@ -1,6 +1,6 @@
 # sharries_signature
 
-# A Shopping App Model that displays beauty product
+*A Shopping App Model that displays beauty product
 *Timbu API used in retreiving backend data.
 
 ## Navigating through the App(screenshots):
